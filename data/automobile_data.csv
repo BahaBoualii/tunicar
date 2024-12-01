@@ -253,7 +253,7 @@ Audi Q5 S-line,99900,Audi,SUV/4x4,Diesel,9,Automatique,165000,02.2015,20.02.2024
 Volkswagen Golf 7 Citadine,65000,Volkswagen,Citadine,Essence,5,Automatique,120000,08.2017,20.02.2024
 Chery Arrizo 5 Parfait Etat,37000,Chery,Citadine,Essence,7,Manuelle,170000,07.2017,20.02.2024
 KIA Sportage GT line,100000,KIA,SUV/4x4,Diesel,10,Automatique,128000,05.2017,20.02.2024
-Renault Megane Phase 2, Moteur 1.6 16V,21500,Renault,Citadine,Essence,7,Manuelle,230000,12.2006,20.02.2024
+Renault Megane Phase 2, 21500,Renault,Citadine,Essence,7,Manuelle,230000,12.2006,20.02.2024
 Nissan Juke,45000,Nissan,SUV/4x4,Essence,5,Manuelle,115000,12.2016,20.02.2024
 Audi Q3 S line,88000,Audi,SUV/4x4,Essence,8,Automatique,99000,01.2018,20.02.2024
 Seat Leon Référence,37000,Seat,Compacte,Essence,5,Manuelle,190000,03.2014,20.02.2024
@@ -370,7 +370,7 @@ Nissan Qashqai Tekna plus,82000,Nissan,SUV/4x4,Essence,7,Automatique,72000,07.20
 Fiat Grande Punto,29200,Fiat,Citadine,Essence,4,Manuelle,141000,04.2016,25.02.2024
 Chery Tiggo 3X LUXURY,61000,Chery,Autres,Essence,6,Automatique,4000,01.2022,25.02.2024
 KIA Rio 5p neuf,69000,KIA,Citadine,Essence,5,Manuelle,28000,01.2023,25.02.2024
-Peugeot 3008 1,2 L - 135 ch EAT allure,92000,Peugeot,SUV/4x4,Essence,7,Automatique,70000,11.2019,25.02.2024
+Peugeot 3008,92000,Peugeot,SUV/4x4,Essence,7,Automatique,70000,11.2019,25.02.2024
 Volkswagen Golf 8 Life,125000,Volkswagen,Compacte,Essence,8,Automatique,15000,02.2023,25.02.2024
 Mercedes-Benz Classe A AMG,175000,Mercedes,Compacte,Hybride rechargeable essence,8,Automatique,6000,12.2022,25.02.2024
 Land Rover Range Rover Evoque 2.2 Diesel Dynamic,122000,Land Rover,SUV/4x4,Diesel,11,Automatique,145000,04.2016,25.02.2024
@@ -412,7 +412,7 @@ KIA Rio 5p Premiere main,45500,KIA,Citadine,Essence,5,Manuelle,68000,02.2018,26.
 Chevrolet Aveo LS,26200,Chevrolet,Berline,Essence,5,Manuelle,182500,07.2016,18.02.2024
 Mazda 2 Sedan neuve,46000,Mazda,Berline,Essence,6,Manuelle,115000,04.2017,19.02.2024
 Seat Ibiza,39000,Seat,Citadine,Essence,4,Manuelle,66500,05.2017,19.02.2024
-Haval H6 1,5 L,118000,Haval,SUV/4x4,Essence,8,Automatique,42000,05.2022,19.02.2024
+Haval H6 1.5 L,118000,Haval,SUV/4x4,Essence,8,Automatique,42000,05.2022,19.02.2024
 Citroën C3 shine plus sur équipée,33000,Citroën,Citadine,Essence,4,Manuelle,195000,08.2017,19.02.2024
 KIA Rio 5p,67500,KIA,Citadine,Essence,5,Manuelle,12000,09.2022,19.02.2024
 Mazda 3 Hatchback,48000,Mazda,Coupé,Essence,6,Manuelle,110000,05.2015,19.02.2024
@@ -1419,7 +1419,7 @@ Porsche Panamera PLATINUM édition,255000,Porsche,Berline,Essence,20,Automatique
 Land Rover Range Rover Velar R_dynamique D300,350000,Land Rover,SUV/4x4,Diesel,19,Automatique,100000,09.2019,26.02.2024
 Peugeot 3008 GT-line,77000,Peugeot,SUV/4x4,Essence,9,Automatique,260000,08.2017,26.02.2024
 Porsche Macan S,185000,Porsche,SUV/4x4,Essence,23,Automatique,110000,01.2015,26.02.2024
-Mercedes-Benz Classe C 180, kit AMG,198000,Mercedes,Berline,Hybride essence,10,Automatique,23000,04.2022,15.02.2024
+Mercedes-Benz Classe C 180 kit AMG,198000,Mercedes,Berline,Hybride essence,10,Automatique,23000,04.2022,15.02.2024
 Volkswagen Polo Sedan 1.4,39000,Volkswagen,Citadine,Essence,5,Manuelle,110000,07.2017,26.02.2024
 Volkswagen Golf 7 Bluemotion,55000,Volkswagen,Monospace,Diesel,5,Automatique,240000,05.2013,15.02.2024
 KIA Seltos,98000,KIA,SUV/4x4,Essence,8,Automatique,47000,11.2021,26.02.2024
